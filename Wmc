@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "GLH9UMZdVo9AG6rKW6wfU2oB4yipAqVtkpvaSe9Xmoon",
+  "symbol": "WMC",
+  "name": "WallyMackCoin",
+  "decimals": 9,
+  "logoURI": "https://yourserver.com/wmc-icon.png",
+  "tags": ["utility-token"],
+  "extensions": {
+    "website": "https://yourwebsite.com",
+    "twitter": "https://twitter.com/yourhandle"
+  }
+}
