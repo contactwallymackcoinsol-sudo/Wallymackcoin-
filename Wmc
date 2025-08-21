@@ -4,10 +4,15 @@
   "symbol": "WMC",
   "name": "WallyMackCoin",
   "decimals": 9,
-  "logoURI": "https://yourserver.com/wmc-icon.png",
+  "logoURI":"logoURI" "https://your-actual-wmc-icon-link.com/icon.png",
   "tags": ["utility-token"],
   "extensions": {
-    "website": "https://yourwebsite.com",
-    "twitter": "https://twitter.com/yourhandle"
+  "website":https://docs.google.com/document/d/1NGQp7qq434xe3fNN_7Hbkg-eIji8AqD6jynxUkd0B3Y/edit?usp=drivesdk "https://your-actual-website.com",
+    "twitter": "https://twitter.com/your-actual-handle"
   }
 }
+
+
+
+
+Reset WMC JSON with correct metadata
