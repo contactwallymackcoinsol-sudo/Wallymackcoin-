@@ -4,7 +4,7 @@
   "symbol": "WMC",
   "name": "WallyMackCoin",
   "decimals": 9,
-  "logoURI": "https://github.com/contactwallymackcoinsol-sudo/Wallymackcoin-/blob/main/wmc-icon.png?raw=true",
+  "logoURI": "https://github.com/contactwallymackcoinsol-sudo/Wallymackcoin-/raw/main/wmc-icon.png",
   "tags": ["utility-token"],
   "extensions": {
     "website": "https://docs.google.com/document/d/1NGQp7qq434xe3fNN_7Hbkg-eIji8AqD6jynxUkd0B3Y/edit?usp=drivesdk"
